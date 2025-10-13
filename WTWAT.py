@@ -1,1 +1,1 @@
-import WTWAT.py
+import WTWAT
